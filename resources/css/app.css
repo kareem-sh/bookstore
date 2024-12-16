@@ -1,0 +1,9 @@
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Scoped Bootstrap Import */
+.bootstrap {
+    @import 'bootstrap/dist/css/bootstrap.min.css';
+}
